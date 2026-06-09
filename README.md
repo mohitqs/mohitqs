@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohitqs
+- 👋 Hi, I’m Mohit Sharma
 - 👀 I’m interested in creating packages for react js
 - 🌱 I’m currently learning how to create packages for react js
 - 💞️ I’m looking to collaborate on web3 ...
